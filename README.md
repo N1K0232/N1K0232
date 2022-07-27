@@ -1,6 +1,6 @@
 - 👋 Hi my name is Nicola and I'm from Italy
 - 👀 I’m interested in coding, edm and music production 
-- 🌱 I love to use Microsoft .NET Platform. Currently I'm working with .NET 6.0
+- 🌱 I mainly use Microsoft .NET Platform. Currently I'm working with .NET 6.0
 - 💞️ 
 - 📫 
 
