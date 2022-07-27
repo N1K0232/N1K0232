@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NicolaSilvestri22
-- 👀 I’m a student at 5th year of IT 
-- 🌱 I’m currently learning C# with .NET 5 Platform
+- 👋 Hi my name is Nicola and I'm from Italy
+- 👀 I’m interested in coding, edm and music production 
+- 🌱 I love to use Microsoft .NET Platform. Currently I'm working with .NET 6.0
 - 💞️ 
 - 📫 
 
